@@ -1,6 +1,6 @@
 from typing import List
 
-from src.constants import (
+from .constants import (
     COUNTRY_CODE_TO_ADMIN_LEVELS,
     COUNTRY_CODE_TO_NAME,
     COUNTRY_CODE_TO_OSM_ID,
